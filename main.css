@@ -1,0 +1,13 @@
+body {
+  background-color: azure;
+}
+.container {
+  display: grid;
+  width: 400;
+  height: 400px;
+  grid-template-columns: 400px;
+  grid-template-rows: 400px;
+  justify-content: center;
+  text-align: center;
+  vertical-align: bottom;
+}
